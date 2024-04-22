@@ -1,0 +1,19 @@
+{
+  "name": "translate_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translate_i18n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deep-object-diff": "^1.1.9",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
